@@ -1,12 +1,14 @@
 # RPA Immersion
 
-# Under construction...
+## Under construction...
 
-## UiPath
+### UiPath
 
 [https://www.uipath.com/](https://www.uipath.com/)
 
-## Challenge
+### Challenge
+
+![](https://github.com/rquintam/rpa-immersion/blob/master/assets/rpaChallenge.gif)
 
 [https://desafiosrpa.com.br/desafio-imersao.html](https://desafiosrpa.com.br/desafio-imersao.html)
 
